@@ -5,7 +5,7 @@ import TopInput from "./components/Top/TopInput";
 
 function App() {
   return (
-    <div className="flex flex-col md:flex-row h-screen">
+    <div className="flex flex-col md:flex-row h-screen font-space-grotesk">
       <div
         className={`md:bg-[url('/images/bg-main-desktop.png')] bg-[url('/images/bg-main-mobile.png')] bg-cover md:p-52 p-28`}
       >
